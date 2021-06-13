@@ -1,0 +1,8 @@
+.custom-shadow {
+  box-shadow: 0 0 5px 1.5px #464343;
+}
+
+.dive {
+  top: 50%;
+  transform: translateY(50%);
+}
